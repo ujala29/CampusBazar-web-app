@@ -51,7 +51,7 @@ If not logged-in → redirected to login page.
 | **Node.js**  | Server |
 | **JWT + Cookies** | Auth & protected routes |
 | **Axios**     | API requests |
-| **Cloudinary (optional)** | Image upload |
+
 
 ---
 
